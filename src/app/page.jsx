@@ -4,7 +4,7 @@ import styles from "./homepage.module.css";
 export default function Home() {
   return (
     <div>
-      <Link href="/">Hello</Link>
+      <Link href="/">hello</Link>
     </div>
   );
 }
